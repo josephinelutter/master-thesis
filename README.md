@@ -1,1 +1,2 @@
-# master-s-thesis
+# Predicting Dengue Fever Incidence and Disease Dynamics under Climate Change in Southeast Asia
+This repository contains the code and data for the master's thesis "Predicting Dengue Fever Incidence and Disease Dynamics under Climate Change in Southeast Asia" by Josephine Lutter and supervised by Professor Roberto Henriques. This Master's Thesis was presented as a partial requirement for obtaining the Master’s degree in Data Science and Advanced Analytics, with a specialization in Business Analytics, at NOVA Information Management School, Universidade Nova de Lisboa.
