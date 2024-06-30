@@ -4,7 +4,7 @@ This repository contains the code, data, and supporting material for the master'
 ## Keywords
 Dengue Fever; Incidence Forecast; Deep Learning; Machine Learning; Climate Change
 
-## Structure:
+## Structure
 For each of the 17 Southeast Asian locations, a notebook was created for initial exploratory analysis and data preparation of the raw secondary data obtained. Using Singapore as an example:
 
 - Notebook 1: The input file is "Singapore.xlsm" and the output file "Singapore Cleaned.xlsx" contains the dataset with imputed values.
